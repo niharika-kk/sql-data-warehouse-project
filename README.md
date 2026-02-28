@@ -8,11 +8,11 @@ This project demonstrates a comprehensive data warehouse and analytical solution
 
 
 #### Specifications
-  **Data sources**:import data from two source systems(ERP and CRM)provided as CSV files.
-  **Data quality**:cleanse and solve data quality issues prior to analysis.
-  **Integration**:Combine both sources into single,user-friendly data model designed for analtyical queries.
-  **Scope**:Focus on the latest dataset only,historization of data is not required.
-  **Documentation**:Provide clear documentation of the data model to support both business stakeholders and analytical team.
+  - **Data sources**:import data from two source systems(ERP and CRM)provided as CSV files.
+  - **Data quality**:cleanse and solve data quality issues prior to analysis.
+  - **Integration**:Combine both sources into single,user-friendly data model designed for analtyical queries.
+  - **Scope**:Focus on the latest dataset only,historization of data is not required.
+  - **Documentation**:Provide clear documentation of the data model to support both business stakeholders and analytical team.
   --------
 
   ### BI Analytics and Reporting
